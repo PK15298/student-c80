@@ -1,0 +1,18 @@
+#body1{
+    text-align: center;
+}
+#display_name_with_commas
+{
+    padding: 10px;
+	background-color:Blue;
+	border-radius: 10px;
+    width: 50%;
+}
+
+#display_name_without_commas
+{
+    padding: 10px;
+    background-color: lightcoral;
+	border-radius: 10px;
+    width: 50%;
+}
